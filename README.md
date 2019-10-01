@@ -1,6 +1,3 @@
 # first
-description
 
-I love :pizza: :yum:
-
-Another line of code
+I'm very excited to start my first git hub repo! :grin:
